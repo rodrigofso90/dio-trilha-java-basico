@@ -35,19 +35,6 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-## Código em execução
-
-https://user-images.githubusercontent.com/105133847/222978220-a24c7a44-8319-44d0-a9a3-80aa980415e3.mp4
-
-<h2>Ferramentas utilizadas</h2>
 
 - ``Java``
-- ``IDE Eclipse``
 
-<h2>Acesse o projeto</h2> 
-
-Você pode [acessar o código fonte do projeto](https://github.com/jurandi1/desafio-dio-conta-bancaria/blob/main/desafio_dio_conta_bancaria/src/desafio_dio_conta_bancaria/ContaTerminal.java).
-
-<h2>Desenvolvedor</h2>
-
-[<img src="https://user-images.githubusercontent.com/105133847/215238362-763c8d76-55d2-4fd0-8b5f-f7080fbc4114.jpg" width=115><br><sub>Jurandi Junior</sub>](https://github.com/jurandi1)
